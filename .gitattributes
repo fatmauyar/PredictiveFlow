@@ -1,1 +1,3 @@
-*.ipynb linguist-language=Python
+* linguist-vendored
+*.m linguist-vendored=false
+*.* linguist-language=Matlab
